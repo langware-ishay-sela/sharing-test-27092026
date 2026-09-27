@@ -1,0 +1,17 @@
+{
+  "type": "agent",
+  "id": "a4a5d1b5-9548-48f2-b8eb-2546399ebf0e",
+  "name": "IntroductionAgent",
+  "description": "",
+  "skills": [],
+  "mcp_servers": [],
+  "subagents": [],
+  "additional_dirs": [],
+  "load_flowpad_assistant": false,
+  "chief_of_staff": false,
+  "cli_options": {},
+  "enabled": true,
+  "intro": "Hi!",
+  "auto_launch": false,
+  "auto_launch_prompt": ""
+}
